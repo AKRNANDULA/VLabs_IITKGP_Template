@@ -1,7 +1,7 @@
-# VLabs IITKGP Github Conversion Steps <img src="experiment/images/iitkgp.png" width="10%">
+# VLabs IITKGP Github Conversion Steps <img src="images/iitkgp.png" width="10%">
 
 
-### Author
+## Author
 
 ### Aditya Kameswara Rao Nandula 
 ### Senior Project Officer 
